@@ -1,0 +1,32 @@
+.root{
+    -fx-background-color: #2196F3;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20px;
+}
+.table-view{
+    -fx-base: #2196F3;
+    -fx-control-inner-background: #2196F3;
+    -fx-background-color: #2196F3;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+}
+.menu-bar{
+    -fx-background-color: #1976D2;
+    -fx-border-style: none;
+    -fx-background-radius: 20px;
+}
+.button{
+    -fx-background-color: #FFEB3B;
+    -fx-background-radius: 10px;
+    -fx-cursor: hand;
+}
+.text-field{
+    -fx-background-radius: 10px;
+}
+.menu{
+    -fx-cursor: hand;
+}
+.menu-item{
+    -fx-cursor: hand;
+}
